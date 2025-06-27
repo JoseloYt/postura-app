@@ -186,7 +186,7 @@ st.set_page_config(page_title="Detección de Curvatura Postural", layout="wide")
 st.title("🧍‍♂️ Detección de Curvatura Postural en Tiempo Real")
 
 st.write("""
-Esta aplicación usa **YOLOv8** para estimación de pose y detecta curvaturas
+Esta aplicación usa **YOLOv11** para estimación de pose y detecta curvaturas
 en la columna vertebral. Además, recuerda al usuario hacer pausas
 cada cierto tiempo (configurable).
 """)
